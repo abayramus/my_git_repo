@@ -1,4 +1,8 @@
 //First Git Pull
 //Ahmet
 //Bayram
+<<<<<<< HEAD
 Remote Test
+=======
+Test
+>>>>>>> 63509fbe279599f9f9ac40013541ff11e0b338a3
